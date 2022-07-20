@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Faisal Alagil
-- 👀 I’m interested in: programming ¯\_(ツ)_/¯
-- 🌱 I’m currently learning: stuff ¯\_(ツ)_/¯
-- 💞️ I’m looking to collaborate on: nothing ¯\_(ツ)_/¯
+- 👀 I’m interested in: programming : v |
+- 🌱 I’m currently learning: stuff : v |
+- 💞️ I’m looking to collaborate on: nothing : v |
 - 📫 How to reach me: email me : v |
 
 <!---
